@@ -25,6 +25,9 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
+  - page: Quotes
+    directory: quotes/
+    icon: fa-quote-left
   - page: about
     directory: about/
     icon: fa-user
@@ -38,7 +41,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - tag
   - recent_posts
   - recent_comments
-  - links
+  #- links
 
 links:
   - title: site-name1
